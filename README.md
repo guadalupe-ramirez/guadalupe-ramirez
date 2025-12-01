@@ -1,3 +1,24 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EE82EE,100:6A0DAD&reversal=true&section=header" />
+</div>
+
+<h3 align="center">
+  Hola, soy Guadalupe Ramírez Pérez
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/guadalupe-ramirez">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&center=true&vCenter=true&width=600&height=45&lines=Data+Engineer+%7C+Ingenier%C3%ADa+Qu%C3%ADmica;ETL%2FELT%2FETLT+%7C+Cloud+Data+Platforms;Transformando+datos+en+decisiones+accionables" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guadalupe-ramirez&color=8A2BE2&style=flat" alt="Profile views" />
+</p>
+
+---
+
 # Guadalupe Ramírez Pérez
 
 ### Data Engineer con formación en Ingeniería Química
@@ -7,6 +28,10 @@ Soy **Ingeniera de Datos e Ingeniera Química**, enfocada en transformar datos e
 ---
 
 ## Sobre mí
+
+<picture>
+  <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="340px">
+</picture>
 
 Combino la disciplina de la **Ingeniería Química** con las prácticas de la **Ingeniería de Datos**.
 
@@ -61,18 +86,17 @@ Mi meta es seguir creciendo en proyectos donde pueda **combinar experiencia indu
 - Bash (scripts para automatizar tareas y orquestar procesos)  
 - JSON / YAML (configuración de pipelines, DBT e infraestructura como código)
 
-
 **Procesamiento y modelado de datos**
 
 - Diseño de pipelines **ETL/ELT/ETLT**  
-- Modelado relacional y dimensional.
-- Uso de formatos de almacenamiento optimizados 
+- Modelado relacional y dimensional.  
+- Uso de formatos de almacenamiento optimizados (por ejemplo, Parquet) y estrategias de particionamiento por fecha o llaves de negocio.  
 - Apache **Spark / PySpark** para transformaciones, joins y agregaciones sobre volúmenes crecientes de datos.  
 - Trabajo en **Jupyter Notebooks** y **Google Colab** para exploración, validación y prototipado de transformaciones.    
 
 **Cloud & arquitectura de datos**
 
-- Arquitectura de datos
+- Arquitectura de datos  
   - Diseño de **plataformas de datos en la nube** (data lakes, data warehouses y enfoques tipo lakehouse), definiendo zonas lógicas de datos (raw / staging / curated).  
   - Implementación de **arquitecturas por capas y orientadas a dominio** (por ejemplo, esquemas Bronze / Silver / Gold, data marts de negocio y vistas analíticas específicas).  
 
@@ -87,7 +111,6 @@ Mi meta es seguir creciendo en proyectos donde pueda **combinar experiencia indu
   - **BigQuery** (analítica y modelo de datos tipo Data Warehouse)  
   - **Compute Engine** (entornos de cómputo para procesamiento de datos)  
   - **IAM** (gestión de identidades y permisos a nivel de proyecto/recursos)  
-
 
 **Orquestación y transformación**
 
@@ -126,5 +149,3 @@ Si quieres hablar sobre oportunidades, proyectos o simplemente conectar:
 - 💼 **LinkedIn:** *www.linkedin.com/in/guadalupe-ramirez-perez*  
 - 📧 **Email:** `g.ram.perez2702@gmail.com`  
 - 🐙 **GitHub:** [guadalupe-ramirez](https://github.com/guadalupe-ramirez)
-
----
