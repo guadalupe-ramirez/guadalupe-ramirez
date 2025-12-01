@@ -18,10 +18,7 @@
 </p>
 
 ---
-
-# Guadalupe Ramírez Pérez
-
-### Data Engineer con formación en Ingeniería Química
+## Data Engineer con formación en Ingeniería Química
 
 Soy **Ingeniera de Datos e Ingeniera Química**, enfocada en transformar datos en soluciones que optimizan procesos, reducen ineficiencias y generan impacto real en el negocio.
 
