@@ -250,8 +250,8 @@ My goal is to keep growing through projects where I can combine industrial exper
 
 ## Contacto/ Contact
 
-Si quieres hablar sobre oportunidades, proyectos o simplemente conectar:
-If you’d like to talk about opportunities, projects, or simply connect:
+- Si quieres hablar sobre oportunidades, proyectos o simplemente conectar:
+- If you’d like to talk about opportunities, projects, or simply connect:
 
 - 💼 **LinkedIn:** *www.linkedin.com/in/guadalupe-ramirez-perez*  
 - 📧 **Email:** `g.ram.perez2702@gmail.com`  
