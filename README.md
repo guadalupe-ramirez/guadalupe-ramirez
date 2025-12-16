@@ -135,13 +135,123 @@ Mi meta es seguir creciendo en proyectos donde pueda **combinar experiencia indu
 
 - Documentación técnica y funcional orientada a distintos perfiles (técnicos y no técnicos)  
 - Trabajo con metodologías ágiles (**Scrum / Kanban**)  
-- Enfoque en **trazabilidad, calidad de datos y reproducibilidad**  
+- Enfoque en **trazabilidad, calidad de datos y reproducibilidad**
+
+
+
+## About me
+I combine the discipline of **Chemical Engineering** with **Data Engineering** best practices.
+
+My journey started in **manufacturing, quality, and logistics**, where I learned to value:
+
+- process efficiency,
+- information accuracy,
+- and the importance of data-driven decisions.
+
+That industrial experience shapes how I work with data today: I think in end-to-end systems—from data capture to final consumption—and how every technical decision impacts real operations.
 
 ---
 
-## Contacto
+## My work as a Data Engineer
+
+My work focuses on designing and building data systems that are:
+
+- **Efficient:** reducing manual work and eliminating redundancies.
+- **Scalable:** ready to grow in volume and complexity.
+- **Reliable:** with traceability, data quality, and consistency.
+
+In practice, that means:
+
+- Building **ETL/ELT/ETLT** pipelines from multiple sources (APIs, files, relational databases).
+- Designing clear, consistent **data models** to answer business questions and uncover actionable insights.
+- Implementing **cleaning, validation, and standardization** processes to build trust in the data.
+- Documenting and versioning work so others can understand, reproduce, and improve what’s built.
+
+I care about solutions that don’t just “work,” but genuinely make life easier for analysts, data scientists, and business teams.
+
+---
+
+## What I want to build
+
+More than moving data from point A to point B, I’m motivated by designing data architectures that become a real competitive advantage for organizations.
+
+I’m especially interested in environments where:
+
+- data is treated as a **product** (quality, maintenance, continuous evolution),
+- technical decisions are made with the **operational context** in mind (plant, logistics, finance, etc.),
+- data engineering bridges **day-to-day operations** and **business strategy**.
+
+My goal is to keep growing through projects where I can combine industrial experience, strong engineering practices, and modern data technologies to build solid, sustainable platforms.
+
+---
+
+## Technologies and tools
+
+**Languages**
+
+- **Python** (pandas, PySpark, requests, visualization, scripting automation)
+- **SQL** (analytical queries, modeling, creating views/tables in PostgreSQL, MySQL, SQLite)
+- **Bash** (automation scripts, process orchestration)
+- **JSON / YAML** (pipeline configuration, dbt, infrastructure as code)
+
+**Data processing & modeling**
+
+- **ETL/ELT/ETLT** pipeline design
+- **Relational and dimensional modeling**
+- Optimized storage formats (e.g., **Parquet**) and partitioning strategies (by date or business keys)
+- **Apache Spark / PySpark** for transformations, joins, and aggregations at increasing scale
+- **Jupyter Notebooks** and **Google Colab** for exploration, validation, and transformation prototyping
+
+**Cloud & data architecture**
+
+- Cloud data platforms (data lakes, data warehouses, **lakehouse** approaches) with logical zones (raw / staging / curated)
+- Layered, domain-oriented architectures (e.g., **Bronze / Silver / Gold**, business data marts, and analytics-ready views)
+
+**AWS**
+
+- **S3** (raw and processed storage)
+- **Glue Data Catalog** (metadata and tables)
+- **EC2** (compute environments for Spark and orchestration)
+- **IAM** (least-privilege roles and policies)
+
+**GCP**
+
+- **Cloud Storage** (files and datasets)
+- **BigQuery** (analytics and data warehouse modeling)
+- **Compute Engine** (compute for data processing)
+- **IAM** (identity and permission management)
+
+**Orchestration & transformation**:
+
+- **Airflow** for pipeline orchestration
+- **dbt** for declarative transformations and modeling
+- **REST APIs** ingestion
+
+**Infrastructure & development**
+
+- **Docker** for reproducible environments
+- **Terraform** (Infrastructure as Code) in learning projects
+- **Git & GitHub** (branches, pull requests, collaborative workflows)
+
+**Visualization & analysis**
+
+- **Power BI** for dashboards and business-oriented analytics
+- **Streamlit** for data app prototypes
+- Python visualization: **matplotlib**, **seaborn**, **plotly**
+- Interactive exploration in **Jupyter / Google Colab**
+
+**Working style**
+
+- Technical and functional documentation for both technical and non-technical audiences
+- Agile collaboration (Scrum / Kanban)
+- Strong focus on **traceability, data quality, and reproducibility**
+
+---
+
+## Contacto/ Contact
 
 Si quieres hablar sobre oportunidades, proyectos o simplemente conectar:
+If you’d like to talk about opportunities, projects, or simply connect:
 
 - 💼 **LinkedIn:** *www.linkedin.com/in/guadalupe-ramirez-perez*  
 - 📧 **Email:** `g.ram.perez2702@gmail.com`  
